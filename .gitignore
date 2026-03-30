@@ -1,0 +1,26 @@
+# 数据文件
+data/
+*.zip
+*.tar
+
+# 输出文件
+outputs/
+logs/
+checkpoints/
+*.log
+*.pth
+*.ckpt
+
+# Python 缓存
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 环境 / IDE
+.venv/
+.vscode/
+.idea/
+
+# 系统文件
+.DS_Store
+Thumbs.db
